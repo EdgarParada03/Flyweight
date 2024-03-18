@@ -1,0 +1,5 @@
+com\mycompany\flyweight\Main.class
+com\mycompany\flyweight\Forest.class
+com\mycompany\flyweight\Tree.class
+com\mycompany\flyweight\TreeFactory.class
+com\mycompany\flyweight\TreeType.class
